@@ -6,6 +6,8 @@ This is a good project for understanding basics of Advanced Java.
 
 I have used CRUD operations to Add, Read, Update and Delete the notes. I have created Servlets for each operation.
 
+It was great not having to write query each and every time I wanted to update my database, unlile JDBC, thanks to Hibernate!
+
 The Server I have used is TomCat v9. 
 I have also used Maven.
 For CSS I have used Bootstrap 4.
